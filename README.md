@@ -12,7 +12,7 @@ Cave: música silenciada + SFX abafados (low-pass)
 
 🎮 Como jogar
 
-Pular: Space, clique do mouse ou toque (mobile).
+Pular: clique do mouse ou toque (mobile).
 
 Evite os obstáculos (canos) e marque pontos ao passar pelas aberturas.
 
